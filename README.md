@@ -35,3 +35,13 @@ Enkriptimi-dhe-dekriptimi-permes-Polybius-Square-Cipher/
 ├── polybius_cipher.py   -> Skripti kryesor
 └── README.md            -> Dokumentacioni
 
+---
+
+# Funksionet që duhet të jenë tëpërfshira në projekt
+
+->create_polybius_square()
+->encrypt()
+->decrypt()
+->print_square()
+->main()
+
