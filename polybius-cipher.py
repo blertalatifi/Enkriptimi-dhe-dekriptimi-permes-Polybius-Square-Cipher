@@ -1,6 +1,6 @@
 def create_polybius_square():
     square = {}
-    al0phabet = 'ABCDEFGHIKLMNOPQRSTUVWXYZ'  
+    alphabet = 'ABCDEFGHIKLMNOPQRSTUVWXYZ'  
     for index, letter in enumerate(alphabet):
         row = (index // 5) + 1
         col = (index % 5) + 1
