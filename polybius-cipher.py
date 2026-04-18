@@ -6,3 +6,4 @@ def create_polybius_square():
         col = (index % 5) + 1
         square[letter] = (row, col)
     return square 
+
